@@ -1,0 +1,30 @@
+body {
+font-family: Verdana, Arial, sans-serif;
+font-size:83;
+}
+
+h1 {
+border-style: double;
+color: gray;
+text-align: center;
+}
+
+h2 {
+color: grad;
+margin-bottom: 0px;
+font-size: 100%
+}
+
+li {
+	font-style: italic;
+}
+
+p {
+	margin-top: 2px;
+	font-family: Arial, Verdana;
+	font-style: bold;
+}
+
+form {
+text-align: center;
+}
