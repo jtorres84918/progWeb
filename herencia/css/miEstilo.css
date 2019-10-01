@@ -1,0 +1,10 @@
+body {
+    position: relative;
+  }
+  ul.nav-pills {
+    top: 15px;
+    position: fixed;
+  }
+  div.col-8 div {
+    height: 1000px;
+  }
